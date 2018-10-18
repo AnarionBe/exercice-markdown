@@ -10,6 +10,6 @@
 
 ## Liens
 
-1. [Beda](./histoire.md)
-2. [Kevin Aldenhoff](./syntaxe.md)
-3. [badouuuuuu](./explication.md)
+1. [Histoire](./histoire.md)
+2. [Syntaxe](./syntaxe.md)
+3. [Explications](./explication.md)
