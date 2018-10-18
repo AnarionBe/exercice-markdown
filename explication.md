@@ -35,3 +35,13 @@ il permet une lecture claire.
 Il est possible d'ajouter directement des balises HTML dans le contenu d'un markdown, car celui-ci deviendra moins visible.
 
 Nous pouvons donc dire que le markdown est l'écriture de HTML de manière _"raccourcie"_.
+
+
+# L'histoire du Markdown <a id="histoire"></a>
+
+>Le **Markdown** est un langage de balisage légé crée par **John Gruber** et **Aaron Swartz**, deux prorammeurs américain durant l'année 2004. Le but du langage est d'offrir aux utilisateurs une **syntaxe facile à lire et à écrire**, ce qui permet aux documents d'être lu en l'état sans qu'il soit formaté ou balisé.
+
+# Les outils <a id="outils"></a>
+
+Au niveau des outils, n'importe quel éditeur de texte convient pour faire du Markdown, même le bloc note. Certains permettent même d'avoir un aperçu du texte au format HTML.
+L'exension du fichier est **.md** ou **.markdown**.
